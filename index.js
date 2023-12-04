@@ -224,5 +224,3 @@ function removeAmount(accountName, amount){
    console.log(chalk.green(`Foi realizado um saque de R$${amount} na sua conta`))
    operation();
 }
-
-// addamount - getaccount
